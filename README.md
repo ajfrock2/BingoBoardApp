@@ -1,4 +1,4 @@
-# Bingo Board App 🎯
+# Bingo Board App
 
 An Android app to create and manage custom Bingo boards.  
 Built using Java, XML, and SQLite within Android Studio.
