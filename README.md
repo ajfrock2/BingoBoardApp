@@ -10,7 +10,6 @@ Built using Java, XML, and SQLite within Android Studio.
 - Persistent board state between app launches
 
 ## Installation
-Clone the repo and open it in Android Studio:
+You can download the latest APK from the [Releases](https://github.com/ajfrock2/BingoBoardApp/releases) section of this repository and install it directly on your Android device.
 
-```bash
-git clone https://github.com/yourusername/BingoBoardApp.git
+> ⚠️ Make sure to enable "Install from Unknown Sources" in your phone's security settings to install the APK manually.
