@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_board"
+        android:title="Bingo Board" />
+
+    <item
+        android:id="@+id/menu_entries"
+        android:title="Board Entries" />
+
+</menu>
